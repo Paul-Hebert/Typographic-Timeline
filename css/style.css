@@ -37,7 +37,7 @@ body {
 	color:#e10;	
 }
 
-.event_marker{
+.data_point_marker{
 	height:2pt;
 	background:#222;
 	position:absolute;
@@ -46,12 +46,12 @@ body {
 	z-index:0;
 }
 
-.event_details{
+.data_point_details{
 	left:260px;
 	position:absolute;	
 }
 
-.event_date{
+.data_point_date{
 	text-align: right;
 	left:80px;
 	width: 50px;
@@ -60,33 +60,33 @@ body {
 	top:30px;
 }
 
-.event_text, .event_buttons{
+.data_point_text, .data_point_buttons{
 	display:none;
 }
 
-.event_text *, .event_buttons *{
+.data_point_text *, .data_point_buttons *{
 	opacity:0;
 }
 
-.event_text p{
+.data_point_text p{
 	max-width:590px;
 	font-size:13pt;
 }
 
-.event_text h1{
+.data_point_text h1{
 	color:#333;
 	font-weight:400;
 	font-style:italic;
 	font-size:21pt;
 }
 
-.event_text span{
+.data_point_text span{
 	color:#ccc;
 	font-size:42pt;
 	float:right;
 }
 
-.event_buttons{
+.data_point_buttons{
 	float:right;
 }
 
