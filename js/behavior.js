@@ -16,7 +16,7 @@ var data_points = [
 					["Letterpress",1450,"Johannes Gutenberg&rsquo;s moveable type printing press (or letterpress) created in Mainz, Germany, combined the grape screw press used in winemaking with the system of moveable type developed by the Chinese. Combining these two technologies with his goldsmithing skills he developed more durable metal type, automated printing and reduced the price of books, making them more accessible.","Germany"]
 				],
 				[	
-					["Jenson",1470,"Printer Nicolas Jenson, a French national working in Venice, created the typeface which bears his name. It was renowned for its evenness and the comfortable fit of its letters as words, as well as the beautiful proportions of the letterforms themselves. It a highly readable typeface appropriate for large amounts of text. A model for good typeface design, it has inspired many revivals.","Italy"]
+					["Jenson",1470,"Printer Nicolas Jenson, a French national working in Venice, created the typeface which bears his name. It was renowned for its evenness and the comfortable fit of its letters as words, as well as the beautiful proportions of the letterforms themselves. It is a highly readable typeface appropriate for large amounts of text. A model for good typeface design, it has inspired many revivals.","Italy"]
 				],
 				[	
 					["Oldstyle",1490,"Oldstyle type began with the Italian punchcutter Francesco Griffo. Oldstyle letters are characterized by the diagonal stress of handwriting in round letters and have sloped, bracketed or tapered serifs. Oldstyle capitals were influenced by carved roman capitals (majuscules); lowercase oldstyle letters were inspired by fifteenth century humanistic writing (minuscules).",'']
